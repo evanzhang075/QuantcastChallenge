@@ -27,12 +27,12 @@ int main(int argc, const char * argv[]) {
     }
     
 
-    string file = argv[1];
+    string fileName = argv[1];
     string date = argv[3];
     
     // Open file
     ifstream myfile;
-    myfile.open("cookie_log.csv");
+    myfile.open(fileName);
     
     if (!myfile.is_open()){
         cout << "Couldn't open file" << endl;
