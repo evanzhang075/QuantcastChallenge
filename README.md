@@ -1,5 +1,6 @@
 # QuantcastChallenge
-Code for Quantcast SWE Intern 2022 Challenge
+#### Code for Quantcast SWE Intern 2022 Challenge
+Send any questions regarding the problem to: evzhang@umich.edu
 
 ### How To Build Executable and Run
 #### [Change csv file and UTC date accordingly to run different tests]
